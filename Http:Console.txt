@@ -1,0 +1,452 @@
+[Warning] 190 console messages are not shown.
+[Debug] vscs:web-client:a040:workbench-telemetry:telemetry-service – "track" – "codespaces/web/app-state-changed" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:a040:workbench-telemetry:telemetry-service – "flushing events" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Error] Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+
+[Error] Unrecognized Content-Security-Policy directive 'trusted-types'.
+
+[Error] Failed to load resource: the server responded with a status of 404 () (primer.css.map, line 0)
+[Debug] vscs:web-client:338a:bootstrap – "session data found" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:338a:bootstrap – "done processing url" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Error] Failed to load resource: the server responded with a status of 404 (The specified blob does not exist.) (workbench.web.main.nls.js.map, line 0)
+[Info] vscs:web-client:9b39 – "init 👋" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:338a:bootstrap – "start rendering" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:workbench-telemetry:telemetry-service – "initialize" – "{↵  \"browserId\": \"da62575f1180051087713f64cbf54d5d\",↵  \"sessionId\": \"de1ea9af-497b-4bfc-9911-db1846a05145\",↵  \"pageLoadId\"…" (327.7adbd6b19923e7f0cba2.js, line 1)
+"{
+  \"browserId\": \"da62575f1180051087713f64cbf54d5d\",
+  \"sessionId\": \"de1ea9af-497b-4bfc-9911-db1846a05145\",
+  \"pageLoadId\": \"44ce5235cd8cb249c90f20d7858d4f22\",
+  \"host\": \"ppe.github.dev\",
+  \"browserName\": \"safari\",
+  \"browserVersion\": \"16.6.0\",
+  \"browserOS\": \"Mac OS\",
+  \"vscodeCommit\": \"6c3e3dba23e8fadc360aed75ce363ba185c49794\",
+  \"vscodeQuality\": \"stable\",
+  \"portalName\": \"codespaces-web-client\",
+  \"version\": \"0.1.02424.581-31bd19cc\",
+  \"stableVSCodeCommitId\": \"6c3e3dba23e8fadc360aed75ce363ba185c49794\",
+  \"insiderVSCodeCommitId\": \"f125afbc800ec611f5a9ab1333c769832ce424b3\",
+  \"serviceLocation\": \"SoutheastAsia\",
+  \"serviceInstance\": \"ppe-rel-SoutheastAsia\",
+  \"environment\": \"Staging\",
+  \"serverCorrelationId\": \"c852e859-0fa8-42e2-ad1f-69db0dc3e5ca\",
+  \"cookiesEnabled\": true,
+  \"workbenchType\": \"codespaces\",
+  \"editor\": \"vscode\"
+}"
+[Debug] vscs:web-client:9b39:workbench-telemetry:telemetry-service – "track" – "codespaces/web/app-state-changed" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:workbench-telemetry:telemetry-service – "track" – "codespaces/web/time-to-interactive/action_start" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:workbench-telemetry:telemetry-service – "track" – "codespaces/web/load/action_start" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component – "render: \"Unknown\", previous: \"null\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "render state: \"Unknown\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "render splash screen: true" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "render workbench: false" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:workbench-telemetry:telemetry-service – "track" – "codespaces/web/splash-screen-state-transition" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:auth-service – "got keychain keys from the /keychain-keys endpoint" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Warning] AES-CBC and AES-CTR do not provide authentication by default, and implementing it manually can result in minor, but serious mistakes. We recommended using authenticated encryption like AES-GCM to protect against chosen-ciphertext attacks. (489.3e1c2be2379843eef70c.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component – "platform info found: true" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component – "render: \"Unknown\", previous: \"null\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "render state: \"Unknown\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "render splash screen: true" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "render workbench: false" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:workbench-telemetry:telemetry-service – "track" – "codespaces/web/splash-screen-state-transition" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:side-effects – "check: \"Unknown\"/\"null\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint – "requested to connect once" (2) (327.7adbd6b19923e7f0cba2.js, line 1)
+{token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0Rj…MsTKUXaW7Crkra2VQBZZjPpDkQmEOZwzHkzLUYiqdzw0DN02Q", workspaceId: "FE57F8A3D05065B534648A8FB4A12025875C", environmentId: "c5c7e2b5-5d9f-4c28-9905-84baf0779cbf", telemetry: true, extensions: ["GitHub.vscode-pull-request-github", "github.github-vscode-theme", "github.codespaces"], …}
+{}
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint – "requested to connect" (2) (327.7adbd6b19923e7f0cba2.js, line 1)
+{token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0Rj…MsTKUXaW7Crkra2VQBZZjPpDkQmEOZwzHkzLUYiqdzw0DN02Q", workspaceId: "FE57F8A3D05065B534648A8FB4A12025875C", environmentId: "c5c7e2b5-5d9f-4c28-9905-84baf0779cbf", telemetry: true, extensions: ["GitHub.vscode-pull-request-github", "github.github-vscode-theme", "github.codespaces"], …}
+{retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false}
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:FE57F8A3D05065B534648A8FB4A12025875C – "connection record: false" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:FE57F8A3D05065B534648A8FB4A12025875C – "creating new connection" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint – "creating connection without a timeout" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint – "creating connection" – {retries: 0, retryDelay: 0, timeout: Infinity, …} (327.7adbd6b19923e7f0cba2.js, line 1)
+{retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false}Object
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare-joint:liveshare – "subscribing to onDispose event" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare-joint:liveshare – "asked to connect" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare-joint:liveshare – "creating new connection" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare-joint:liveshare – "creating connection" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare-joint:liveshare – "connection status changed: none -> connecting, error:" – undefined (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare-joint:liveshare – "firing change event: " – {status: "connecting", previousStatus: "none", error: undefined} (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:FE57F8A3D05065B534648A8FB4A12025875C – "none -> connecting" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare – "requested to connect once" (2) (327.7adbd6b19923e7f0cba2.js, line 1)
+{token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0Rj…MsTKUXaW7Crkra2VQBZZjPpDkQmEOZwzHkzLUYiqdzw0DN02Q", workspaceId: "FE57F8A3D05065B534648A8FB4A12025875C", environmentId: "c5c7e2b5-5d9f-4c28-9905-84baf0779cbf", telemetry: true, extensions: ["GitHub.vscode-pull-request-github", "github.github-vscode-theme", "github.codespaces"], …}
+{performance: u}
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare – "requested to connect" (2) (327.7adbd6b19923e7f0cba2.js, line 1)
+{token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0Rj…MsTKUXaW7Crkra2VQBZZjPpDkQmEOZwzHkzLUYiqdzw0DN02Q", workspaceId: "FE57F8A3D05065B534648A8FB4A12025875C", environmentId: "c5c7e2b5-5d9f-4c28-9905-84baf0779cbf", telemetry: true, extensions: ["GitHub.vscode-pull-request-github", "github.github-vscode-theme", "github.codespaces"], …}
+{retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: u}
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:FE57F8A3D05065B534648A8FB4A12025875C – "connection record: false" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:FE57F8A3D05065B534648A8FB4A12025875C – "creating new connection" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare – "creating connection without a timeout" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare – "creating connection" – {retries: 0, retryDelay: 0, timeout: Infinity, …} (327.7adbd6b19923e7f0cba2.js, line 1)
+{retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: u}Object
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "subscribing to onDispose event" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "asked to connect" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "creating new connection" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "creating connection" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "connection status changed: none -> connecting, error:" – undefined (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "firing change event: " – {status: "connecting", previousStatus: "none", error: undefined} (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:onConnectionChanged:FE57F8A3D05065B534648A8FB4A12025875C – "none -> connecting" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "creating workspace client" – {token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0Rj…MsTKUXaW7Crkra2VQBZZjPpDkQmEOZwzHkzLUYiqdzw0DN02Q", workspaceId: "FE57F8A3D05065B534648A8FB4A12025875C", environmentId: "c5c7e2b5-5d9f-4c28-9905-84baf0779cbf", …} (327.7adbd6b19923e7f0cba2.js, line 1)
+{token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0Rj…MsTKUXaW7Crkra2VQBZZjPpDkQmEOZwzHkzLUYiqdzw0DN02Q", workspaceId: "FE57F8A3D05065B534648A8FB4A12025875C", environmentId: "c5c7e2b5-5d9f-4c28-9905-84baf0779cbf", telemetry: true, extensions: ["GitHub.vscode-pull-request-github", "github.github-vscode-theme", "github.codespaces"], …}Object
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare:WorkspaceClient – "connecting to relay link:sb://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/b5a976ef86aa165f33091f3f8040f702a8d1--f889ccca-8a27-41a…" (327.7adbd6b19923e7f0cba2.js, line 1)
+"connecting to relay link:sb://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/b5a976ef86aa165f33091f3f8040f702a8d1--f889ccca-8a27-41aa-b511-290b78a5fbb1"
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare:WorkspaceClient – "creating web SSH..." (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "start, current state: \"stopped\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "stop, current state: \"stopped\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "Polling at a 2000ms rate" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "getting codespace info" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Error] WebSocket connection to 'wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/b5a976ef86aa165f33091f3f8040f702a8d1--f889ccca-8a27-41aa-b511-290b78a5fbb1?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%252Fb5a976ef86aa165f33091f3f8040f702a8d1--f889ccca-8a27-41aa-b511-290b78a5fbb1%26sig%3DY8SSy%252FWG76nlmMrtBMahhDU0nOD3Msk9%252Bk3ngibRuuo%253D%26se%3D1692755398%26skn%3DWorkspaceShareKey' failed: There was a bad response from the server.
+[Error] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "connection failed: " – Error: Failed to connect to relay url Code: 1006 Reason:  — 872.76e62d1f19ce8837067a.js:1:574763
+Error: Failed to connect to relay url Code: 1006 Reason:  — 872.76e62d1f19ce8837067a.js:1:574763
+	traceEvent (327.7adbd6b19923e7f0cba2.js:1:30402)
+	traceEvent
+	(anonymous function) (351.be67b8db556492a3720f.js:1:14354)
+	traceEvent (327.7adbd6b19923e7f0cba2.js:1:31657)
+	error (327.7adbd6b19923e7f0cba2.js:1:31927)
+	handleConnectionError (872.76e62d1f19ce8837067a.js:1:490133)
+	(anonymous function) (872.76e62d1f19ce8837067a.js:1:493601)
+	a (872.76e62d1f19ce8837067a.js:1:490547)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "connection status changed: connecting -> disconnected, error:" – Error: Failed to connect to relay url Code: 1006 Reason:  — 872.76e62d1f19ce8837067a.js:1:574763 (327.7adbd6b19923e7f0cba2.js, line 1)
+Error: Failed to connect to relay url Code: 1006 Reason:  — 872.76e62d1f19ce8837067a.js:1:574763
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "firing change event: " – {status: "disconnected", previousStatus: "connecting", error: Error: Failed to connect to relay url Code: 1006 Reason: } (327.7adbd6b19923e7f0cba2.js, line 1)
+{status: "disconnected", previousStatus: "connecting", error: Error: Failed to connect to relay url Code: 1006 Reason: }Object
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:onConnectionChanged:FE57F8A3D05065B534648A8FB4A12025875C – "connecting -> disconnected" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:onConnectionChanged:FE57F8A3D05065B534648A8FB4A12025875C – "disposing the connection" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare – "disposing FE57F8A3D05065B534648A8FB4A12025875C connection" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection-record – "disposing reason: 'connection record disposed by ConnectionHub: {↵  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",↵…" (327.7adbd6b19923e7f0cba2.js, line 1)
+"disposing reason: 'connection record disposed by ConnectionHub: {
+  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",
+  \"originalErrorType\": \"<no original type>\",
+  \"errorCode\": -1,
+  \"errorType\": \"GenericError\",
+  \"stack\": \"[PATH]/assets.[CODESPACE_URL]\"
+}', disposing 2 objects"
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "disposing reason: 'connection record disposed by ConnectionHub: {↵  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",↵…" (327.7adbd6b19923e7f0cba2.js, line 1)
+"disposing reason: 'connection record disposed by ConnectionHub: {
+  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",
+  \"originalErrorType\": \"<no original type>\",
+  \"errorCode\": -1,
+  \"errorType\": \"GenericError\",
+  \"stack\": \"[PATH]/assets.[CODESPACE_URL]\"
+} $1', disposing 3 objects"
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare:WorkspaceClient – "disposing reason: 'Disposed from LiveShareConnection', disposing 1 objects" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare:WorkspaceClient – "stopCheckConnection reason:'disposed'" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare:delayed-disposable – "Disposing reason:undefined" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "signal rejected reason -> type:i props:{\"message\":\"connection record disposed by ConnectionHub: {\\n  \\\"errorMessage\\\": \\\"Failed to connec…" (327.7adbd6b19923e7f0cba2.js, line 1)
+"signal rejected reason -> type:i props:{\"message\":\"connection record disposed by ConnectionHub: {\\n  \\\"errorMessage\\\": \\\"Failed to connect to relay url Code: 1006 Reason: \\\",\\n  \\\"originalErrorType\\\": \\\"<no original type>\\\",\\n  \\\"errorCode\\\": -1,\\n  \\\"errorType\\\": \\\"GenericError\\\",\\n  \\\"stack\\\": \\\"[PATH]/assets.[CODESPACE_URL]\\\"\\n} $1 $1\",\"errorType\":\"CancellationError\",\"line\":1,\"column\":6920,\"sourceURL\":\"https://assets.ppe.github.dev/static/327.7adbd6b19923e7f0cba2.js\",\"stack\":\"r@https://assets.ppe.github.dev/static/327.7adbd6b19923e7f0cba2.js:1:6920\\ni@https://assets.ppe.github.dev/static/327.7adbd6b19923e7f0cba2.js:1:7664\\ncancel@https://assets.ppe.github.dev/static/327.7adbd6b19923e7f0cba2.js:1:5297\\ncancel@[native code]\\ndispose@https://assets.ppe.github.dev/static/327.7adbd6b19923e7f0cba2.js:1:5483\\n@https://assets.ppe.github.dev/static/327.7adbd6b19923e7f0cba2.js:1:850\\nforEach@[native code]\\ndispose@https://assets.ppe.github.dev/static/327.7adbd6b19923e7f0cba2.js:1:1647\\ndispose@https://assets.ppe.github.dev/static/872.76e62d1f19ce8837067a.js:1:488360\\ndispose@https://assets.ppe.github.dev/static/872.76e62d1f19ce8837067a.js:1:491343\\ndispose@[native code]\\n@https://assets.ppe.github.dev/static/327.7adbd6b19923e7f0cba2.js:1:850\\nforEach@[native code]\\ndispose@https://assets.ppe.github.dev/static/327.7adbd6b19923e7f0cba2.js:1:1647\\ndispose@[native code]\\ndisposeConnection@https://assets.ppe.github.dev/static/872.76e62d1f19ce8837067a.js:1:514253\\n@https://assets.ppe.github.dev/static/872.76e62d1f19ce8837067a.js:1:513887\\n@https://assets.ppe.github.dev/static/872.76e62d1f19ce8837067a.js:1:509839\\nPromise@[native code]\\n@https://assets.ppe.github.dev/static/872.76e62d1f19ce8837067a.js:1:509599\\nonConnectionChanged@[native code]\\ninvoke@https://assets.ppe.github.dev/static/351.be67b8db556492a3720f.js:1:24279\\nfire@https://assets.ppe.github.dev/static/351.be67b8db556492a3720f.js:1:25008\\nonConnectionChangedHandler@https://assets.ppe.github.dev/static/872.76e62d1f19ce8837067a.js:1:489120\\nhandleConnectionError@https://assets.ppe.github.dev/static/872.76e62d1f19ce8837067a.js:1:490189\\n@https://assets.ppe.github.dev/static/872.76e62d1f19ce8837067a.js:1:493600\\na@https://assets.ppe.github.dev/static/872.76e62d1f19ce8837067a.js:1:490546\"}"
+[Error] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare – "connection failed: " – Error: Failed to connect to relay url Code: 1006 Reason: 
+Error: Failed to connect to relay url Code: 1006 Reason:
+	traceEvent (327.7adbd6b19923e7f0cba2.js:1:30402)
+	traceEvent
+	(anonymous function) (351.be67b8db556492a3720f.js:1:14354)
+	traceEvent (327.7adbd6b19923e7f0cba2.js:1:31657)
+	error (327.7adbd6b19923e7f0cba2.js:1:31927)
+	handleConnectionError (872.76e62d1f19ce8837067a.js:1:490133)
+	(anonymous function) (872.76e62d1f19ce8837067a.js:1:488089)
+	a (872.76e62d1f19ce8837067a.js:1:486195)
+[Warning] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare – "disposing connection \"FE57F8A3D05065B534648A8FB4A12025875C\" due to an error" – Error: Failed to connect to relay url Code: 1006 Reason:  (327.7adbd6b19923e7f0cba2.js, line 1)
+Error: Failed to connect to relay url Code: 1006 Reason:
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare – "disposing FE57F8A3D05065B534648A8FB4A12025875C connection" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Warning] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare – "error during connection" – Error: Failed to connect to relay url Code: 1006 Reason:  (327.7adbd6b19923e7f0cba2.js, line 1)
+Error: Failed to connect to relay url Code: 1006 Reason:
+[Error] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare-joint:liveshare – "connection failed: " – Error: Failed to connect to relay url Code: 1006 Reason: 
+Error: Failed to connect to relay url Code: 1006 Reason:
+	traceEvent (327.7adbd6b19923e7f0cba2.js:1:30402)
+	traceEvent
+	(anonymous function) (351.be67b8db556492a3720f.js:1:14354)
+	traceEvent (327.7adbd6b19923e7f0cba2.js:1:31657)
+	error (327.7adbd6b19923e7f0cba2.js:1:31927)
+	handleConnectionError (872.76e62d1f19ce8837067a.js:1:490133)
+	(anonymous function) (872.76e62d1f19ce8837067a.js:1:496242)
+	a (872.76e62d1f19ce8837067a.js:1:494750)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare-joint:liveshare – "connection status changed: connecting -> disconnected, error:" – Error: Failed to connect to relay url Code: 1006 Reason:  (327.7adbd6b19923e7f0cba2.js, line 1)
+Error: Failed to connect to relay url Code: 1006 Reason:
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare-joint:liveshare – "firing change event: " – {status: "disconnected", previousStatus: "connecting", error: Error: Failed to connect to relay url Code: 1006 Reason: } (327.7adbd6b19923e7f0cba2.js, line 1)
+{status: "disconnected", previousStatus: "connecting", error: Error: Failed to connect to relay url Code: 1006 Reason: }Object
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:FE57F8A3D05065B534648A8FB4A12025875C – "connecting -> disconnected" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:FE57F8A3D05065B534648A8FB4A12025875C – "disposing the connection" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint – "disposing FE57F8A3D05065B534648A8FB4A12025875C connection" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection-record – "disposing reason: 'connection record disposed by ConnectionHub: {↵  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",↵…" (327.7adbd6b19923e7f0cba2.js, line 1)
+"disposing reason: 'connection record disposed by ConnectionHub: {
+  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",
+  \"originalErrorType\": \"[CreateConnectionFatalError:<no-code>]\",
+  \"errorCode\": -1,
+  \"errorType\": \"PromiseRaceError\",
+  \"stack\": \"[PATH]/assets.[CODESPACE_URL]\"
+}', disposing 2 objects"
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare-joint:liveshare – "disposing reason: 'connection record disposed by ConnectionHub: {↵  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",↵…" (327.7adbd6b19923e7f0cba2.js, line 1)
+"disposing reason: 'connection record disposed by ConnectionHub: {
+  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",
+  \"originalErrorType\": \"[CreateConnectionFatalError:<no-code>]\",
+  \"errorCode\": -1,
+  \"errorType\": \"PromiseRaceError\",
+  \"stack\": \"[PATH]/assets.[CODESPACE_URL]\"
+} $1', disposing 2 objects"
+[Debug] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare-joint:liveshare:delayed-disposable – "Disposing reason:undefined" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Error] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint:connection:FE57F8A3D05065B534648A8FB4A12025875C:liveshare-joint:liveshare – "connection failed: " – Error: Failed to connect to relay url Code: 1006 Reason: 
+Error: Failed to connect to relay url Code: 1006 Reason:
+	traceEvent (327.7adbd6b19923e7f0cba2.js:1:30402)
+	traceEvent
+	(anonymous function) (351.be67b8db556492a3720f.js:1:14354)
+	traceEvent (327.7adbd6b19923e7f0cba2.js:1:31657)
+	error (327.7adbd6b19923e7f0cba2.js:1:31927)
+	handleConnectionError (872.76e62d1f19ce8837067a.js:1:490133)
+	(anonymous function) (872.76e62d1f19ce8837067a.js:1:488089)
+	a (872.76e62d1f19ce8837067a.js:1:486195)
+[Warning] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint – "disposing connection \"FE57F8A3D05065B534648A8FB4A12025875C\" due to an error" – Error: Failed to connect to relay url Code: 1006 Reason:  (327.7adbd6b19923e7f0cba2.js, line 1)
+Error: Failed to connect to relay url Code: 1006 Reason:
+[Info] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint – "disposing FE57F8A3D05065B534648A8FB4A12025875C connection" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Warning] vscs:web-client:9b39:codespaces-component:connection-hub:liveshare-joint – "error during connection" – Error: Failed to connect to relay url Code: 1006 Reason:  (327.7adbd6b19923e7f0cba2.js, line 1)
+Error: Failed to connect to relay url Code: 1006 Reason:
+[Error] Unhandled Promise Rejection: Error: connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorC...
+	cancel (327.7adbd6b19923e7f0cba2.js:1:5274)
+	cancel
+	dispose (327.7adbd6b19923e7f0cba2.js:1:5484)
+	(anonymous function) (327.7adbd6b19923e7f0cba2.js:1:851)
+	forEach
+	dispose (327.7adbd6b19923e7f0cba2.js:1:1648)
+	dispose (872.76e62d1f19ce8837067a.js:1:488361)
+	dispose (872.76e62d1f19ce8837067a.js:1:491344)
+	dispose
+	(anonymous function) (327.7adbd6b19923e7f0cba2.js:1:851)
+	forEach
+	dispose (327.7adbd6b19923e7f0cba2.js:1:1648)
+	dispose
+	disposeConnection (872.76e62d1f19ce8837067a.js:1:514254)
+	(anonymous function) (872.76e62d1f19ce8837067a.js:1:513888)
+	(anonymous function) (872.76e62d1f19ce8837067a.js:1:509840)
+	Promise
+	(anonymous function) (872.76e62d1f19ce8837067a.js:1:509600)
+	onConnectionChanged
+	invoke (351.be67b8db556492a3720f.js:1:24280)
+	fire (351.be67b8db556492a3720f.js:1:25009)
+	onConnectionChangedHandler (872.76e62d1f19ce8837067a.js:1:489121)
+	handleConnectionError (872.76e62d1f19ce8837067a.js:1:490190)
+	(anonymous function) (872.76e62d1f19ce8837067a.js:1:496242)
+	a (872.76e62d1f19ce8837067a.js:1:494750)
+[Info] vscs:web-client:9b39:codespace-state-watcher – "codespace state -> Shutdown" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "auto stop" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "stop, current state: \"running\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "fire state change" – [null, "Shutdown", "Unknown"] (3) (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component – "onCodespaceStateChange: " – [null, "Shutdown", "Unknown"] (3) (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:workbench-telemetry:telemetry-service – "track" – "codespaces/web/app-state-changed" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component – "render: \"Shutdown\", previous: \"Unknown\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "render state: \"Shutdown\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "render splash screen: true" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "render workbench: false" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:workbench-telemetry:telemetry-service – "track" – "codespaces/web/splash-screen-state-transition" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:side-effects – "check: \"Shutdown\"/\"Unknown\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "Polling at a 2000ms rate" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "getting codespace info" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespace-state-watcher – "codespace state -> Shutdown" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "auto stop" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "stop, current state: \"stopped\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "Polling at a 2000ms rate" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "getting codespace info" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "stop, current state: \"stopped\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "starting codespace" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespace-state-watcher – "codespace state -> Shutdown" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "auto stop" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "stop, current state: \"stopped\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "Polling at a 2000ms rate" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "getting codespace info" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespace-state-watcher – "codespace state -> Queued" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "fire state change" – [null, "Queued", "Shutdown"] (3) (327.7adbd6b19923e7f0cba2.js, line 1)
+[Info] vscs:web-client:9b39:codespaces-component – "onCodespaceStateChange: " – [null, "Queued", "Shutdown"] (3) (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component – "render: \"Queued\", previous: \"Shutdown\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "render state: \"Queued\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "Already polling for Codespace connection readiness, returning existing promise" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "render splash screen: true" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:workbench-page – "render workbench: false" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:workbench-telemetry:telemetry-service – "track" – "codespaces/web/splash-screen-state-transition" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespaces-component:side-effects – "check: \"Queued\"/\"Shutdown\"" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "Polling at a 2000ms rate" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:codespace-state-watcher – "getting codespace info" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Fetch API cannot load https://api.github.com/user/codespaces/orange-dollop-9xvgggw5pxjcpvj?internal=true&refresh=true&t=1692672187067.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (orange-dollop-9xvgggw5pxjcpvj, line 0)
+[Error] FetchEvent.respondWith received an error: Load failed
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Load failed
+[Debug] vscs:web-client:9b39:workbench-telemetry:telemetry-service – "track" – "codespaces/web/app-state-changed" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Debug] vscs:web-client:9b39:workbench-telemetry:telemetry-service – "flushing events" (327.7adbd6b19923e7f0cba2.js, line 1)
+[Error] Fetch API cannot load https://api.github.com/user/codespaces/orange-dollop-9xvgggw5pxjcpvj?internal=true&refresh=true&t=1692672187330 due to access control checks.
+	(anonymous function) (app.185d87916f02994ac621.js:1:251635)
+	(anonymous function) (app.185d87916f02994ac621.js:1:251406)
+	Promise
+	(anonymous function) (app.185d87916f02994ac621.js:1:251166)
+	(anonymous function) (app.185d87916f02994ac621.js:1:252106)
+	(anonymous function) (app.185d87916f02994ac621.js:1:251406)
+	Promise
+	(anonymous function) (app.185d87916f02994ac621.js:1:251166)
+	(anonymous function) (app.185d87916f02994ac621.js:1:31651)
+	s (app.185d87916f02994ac621.js:1:29661)
+[Error] Fetch API cannot load https://api.github.com/user/codespaces/orange-dollop-9xvgggw5pxjcpvj?internal=true&refresh=true&t=1692672187582 due to access control checks.
+	(anonymous function) (app.185d87916f02994ac621.js:1:251635)
+	(anonymous function) (app.185d87916f02994ac621.js:1:251406)
+	Promise
+	(anonymous function) (app.185d87916f02994ac621.js:1:251166)
+	(anonymous function) (app.185d87916f02994ac621.js:1:252106)
+	(anonymous function) (app.185d87916f02994ac621.js:1:251406)
+	Promise
+	(anonymous function) (app.185d87916f02994ac621.js:1:251166)
+	(anonymous function) (app.185d87916f02994ac621.js:1:31651)
+	s (app.185d87916f02994ac621.js:1:29661)
+[Error] Unrecognized Content-Security-Policy directive 'require-trusted-types-for'.
+
+[Error] Unrecognized Content-Security-Policy directive 'trusted-types'.
+
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://orange-dollop-9xvgggw5pxjcpvj.ppe.github.dev/static/manifest.json.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (manifest.json, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/primer.css.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (primer.css, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/splash-screen-styles.css.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (splash-screen-styles.css, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~bootstrap~pfHelper-bn.js.7b0abed2d2023d1d757c.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~bootstrap~pfHelper-bn.js.7b0abed2d2023d1d757c.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~bootstrap~pfHelper-index.js.b47604a4ec452efc20d7.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~bootstrap~pfHelper-index.js.b47604a4ec452efc20d7.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~bootstrap~pfHelper-source-map-consumer.js.216c951187d5a778b7cd.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~bootstrap~pfHelper-source-map-consumer.js.216c951187d5a778b7cd.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~bootstrap~pfHelper-main.js.8391bc1e0c46c9d4b944.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~bootstrap~pfHelper-main.js.8391bc1e0c46c9d4b944.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~bootstrap~pfHelper-_stream_readable.js.3d69624ab8e24a56ddac.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~bootstrap~pfHelper-_stream_readable.js.3d69624ab8e24a56ddac.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~bootstrap~pfHelper-secp256k1.js.ec08957dbf4618d00700.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~bootstrap~pfHelper-secp256k1.js.ec08957dbf4618d00700.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~bootstrap~pfHelper-browser.js.8cc84f19667d165a43b6.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~bootstrap~pfHelper-browser.js.8cc84f19667d165a43b6.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~bootstrap~pfHelper-short.js.099d976ab674df52e32a.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~bootstrap~pfHelper-short.js.099d976ab674df52e32a.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~bootstrap~pfHelper-ast.js.ae375b0de8e8f39f1f22.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~bootstrap~pfHelper-ast.js.ae375b0de8e8f39f1f22.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~bootstrap~pfHelper-_stream_writable.js.ecd57ffa0ef2cfc42a20.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~bootstrap~pfHelper-_stream_writable.js.ecd57ffa0ef2cfc42a20.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~bootstrap~pfHelper-sha256.js.5acb875a9d1f1262e60c.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~bootstrap~pfHelper-sha256.js.5acb875a9d1f1262e60c.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~bootstrap~pfHelper-source-map-support.js.b894d23e06f770790687.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~bootstrap~pfHelper-source-map-support.js.b894d23e06f770790687.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~pfHelper-moment.js.2219b85bb0cf5293f376.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~pfHelper-moment.js.2219b85bb0cf5293f376.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~pfHelper-HttpManager.js.5254ed0a698fdcccc447.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~pfHelper-HttpManager.js.5254ed0a698fdcccc447.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~pfHelper-PostChannel.js.53595609fe09dac36fc3.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~pfHelper-PostChannel.js.53595609fe09dac36fc3.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~pfHelper-dynamicproto-js.js.819b3e68f4ef6ba24964.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~pfHelper-dynamicproto-js.js.819b3e68f4ef6ba24964.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~pfHelper-BaseCore.js.7bffb053b234d15329f3.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~pfHelper-BaseCore.js.7bffb053b234d15329f3.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~pfHelper-HelperFuncs.js.103dae03006e8f1731a8.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~pfHelper-HelperFuncs.js.103dae03006e8f1731a8.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~pfHelper-EventHelpers.js.1e553a203cb083b0529f.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~pfHelper-EventHelpers.js.1e553a203cb083b0529f.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~pfHelper-ProcessTelemetryContext.js.47b66726377975287258.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~pfHelper-ProcessTelemetryContext.js.47b66726377975287258.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app~pfHelper-Utils.js.3f0be0d6723595fe04c3.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app~pfHelper-Utils.js.3f0be0d6723595fe04c3.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-index.js.c7ef7d117d28156516c9.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-index.js.c7ef7d117d28156516c9.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-utils.js.713d3ebad62bfa13cc51.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-utils.js.713d3ebad62bfa13cc51.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-events.js.0f3a945d2b9a3b238bc8.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-events.js.0f3a945d2b9a3b238bc8.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-util.js.5f0b487c1aabdaaa791a.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-util.js.5f0b487c1aabdaaa791a.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-assert.js.7df3cbb39b9c66985eef.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-assert.js.7df3cbb39b9c66985eef.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-linkedMap.js.f754cbf3d6b6526019dd.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-linkedMap.js.f754cbf3d6b6526019dd.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-sshSessionConfiguration.js.6cb67f4fd423adef22cd.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-sshSessionConfiguration.js.6cb67f4fd423adef22cd.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-sshSession.js.c5f43b9362bb3c496495.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-sshSession.js.c5f43b9362bb3c496495.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-keyExchangeService.js.0162c1c66a7d6a2b4768.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-keyExchangeService.js.0162c1c66a7d6a2b4768.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-sshProtocol.js.06a1bb1e8c70c6e0b7d5.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-sshProtocol.js.06a1bb1e8c70c6e0b7d5.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-tunnelManagementHttpClient.js.97d3e87c39ec9854308d.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-tunnelManagementHttpClient.js.97d3e87c39ec9854308d.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-xterm.js.7973891c9ed09509f6c3.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-xterm.js.7973891c9ed09509f6c3.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-react-dom.production.min.js.afd3ea691e94a357cb58.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-react-dom.production.min.js.afd3ea691e94a357cb58.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-google-protobuf.js.85e4f3c2cf6f8ee19b7d.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-google-protobuf.js.85e4f3c2cf6f8ee19b7d.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-VSLS.js.2695a30dc3fa57286d3e.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-VSLS.js.2695a30dc3fa57286d3e.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/commons-app-CodespaceHostService.v1_pb.js.09eaed67231072cd40b9.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (commons-app-CodespaceHostService.v1_pb.js.09eaed67231072cd40b9.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/327.7adbd6b19923e7f0cba2.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (327.7adbd6b19923e7f0cba2.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/779.f5826a33d3e4cc3a441e.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (779.f5826a33d3e4cc3a441e.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/872.76e62d1f19ce8837067a.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (872.76e62d1f19ce8837067a.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/489.3e1c2be2379843eef70c.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (489.3e1c2be2379843eef70c.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/app.185d87916f02994ac621.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (app.185d87916f02994ac621.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/964.5b85be55f1343a83c7dc.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (964.5b85be55f1343a83c7dc.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/bootstrap.c4f684916463c8881025.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (bootstrap.c4f684916463c8881025.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/351.be67b8db556492a3720f.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (351.be67b8db556492a3720f.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://assets.ppe.github.dev/static/pfHelper.b2b43f39fc595a0ed80c.js.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (pfHelper.b2b43f39fc595a0ed80c.js, line 0)
+[Error] FetchEvent.respondWith received an error: Error: Service not registered: HttpClient
+[Error] Cannot load https://github.githubassets.com/favicon.ico.
+[Error] Failed to load resource: FetchEvent.respondWith received an error: Error: Service not registered: HttpClient (favicon.ico, line 0)
+[Warning] The resource https://assets.ppe.github.dev/static/app.185d87916f02994ac621.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.
