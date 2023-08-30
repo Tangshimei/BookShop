@@ -1,0 +1,60 @@
+www.vscode-unpkg.net/_lp/6c3e3dba23e8fadc360aed75ce363ba185c49794/1.81.1/zh/vscode/vs/workbench/workbench.web.main/:1     Failed to load resource: the server responded with a status of 404 ()
+loader.js:2123 Error: 404 - 
+    at d (loader.js:2032:15)
+    at async loader.js:2117:38
+(anonymous) @ loader.js:2123
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:9e87 init 👋
+api.github.com/user/codespaces/studious-potato-p6v5559wxprh7w95?internal=true&refresh=true&t=1693275225419:1     Failed to load resource: the server responded with a status of 403 ()
+api.github.com/user/codespaces/studious-potato-p6v5559wxprh7w95?internal=true&refresh=true&t=1693275225419:1     Failed to load resource: the server responded with a status of 403 ()
+api.github.com/user/codespaces/studious-potato-p6v5559wxprh7w95?internal=true&refresh=true&t=1693275225419:1     Failed to load resource: the server responded with a status of 403 ()
+api.github.com/user/codespaces/studious-potato-p6v5559wxprh7w95?internal=true&refresh=true&t=1693275225419:1     Failed to load resource: the server responded with a status of 403 ()
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:9e87:workbench-telemetry:telemetry-service initialize {
+  "browserId": "cc98642d90d5f662ce293e18d4cded96",
+  "sessionId": "94f94996-3fde-49ec-9176-c026085f0849",
+  "pageLoadId": "50280553818d6d1fe67b33bff27737ed",
+  "host": "ppe.github.dev",
+  "browserName": "chrome",
+  "browserVersion": "116.0.0",
+  "browserOS": "Windows 10",
+  "vscodeCommit": "6c3e3dba23e8fadc360aed75ce363ba185c49794",
+  "vscodeQuality": "stable",
+  "portalName": "codespaces-web-client",
+  "version": "0.1.02428.596-5cb9f499",
+  "stableVSCodeCommitId": "6c3e3dba23e8fadc360aed75ce363ba185c49794",
+  "insiderVSCodeCommitId": "f7973f357e7c316a88e8817886f41a843021fe74",
+  "serviceLocation": "SoutheastAsia",
+  "serviceInstance": "ppe-rel-SoutheastAsia",
+  "environment": "Staging",
+  "serverCorrelationId": "536c37dd-490a-43d6-b11c-68c886a0e222",
+  "cookiesEnabled": true,
+  "workbenchType": "codespaces",
+  "editor": "vscode"
+}
+commons-app-xterm.js.7973891c9ed09509f6c3.js:1 Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently
+e._parseColor @ commons-app-xterm.js.7973891c9ed09509f6c3.js:1
+commons-app-xterm.js.7973891c9ed09509f6c3.js:1 Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently
+e._parseColor @ commons-app-xterm.js.7973891c9ed09509f6c3.js:1
+commons-app-xterm.js.7973891c9ed09509f6c3.js:1 Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently
+t._drawToCache @ commons-app-xterm.js.7973891c9ed09509f6c3.js:1
+api.github.com/codespaces_internal/analytics_tracking_id:1     Failed to load resource: the server responded with a status of 403 ()
+api.github.com/user/codespaces/studious-potato-p6v5559wxprh7w95?internal=true&refresh=true&t=1693275228038:1     Failed to load resource: the server responded with a status of 403 ()
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:9e87:codespaces-component onCodespaceStateChange:  Array(3)
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:9e87:workbench-telemetry:telemetry-service ["codespaces/web/load/action_stop",{"errorCode":-1,"errorType":"ThrottlingApiError","errorMessage":"Cannot fetch Codespace info.","originalErrorType":"[no original type]","errorDidCatch":false,"stack":"Error: Cannot fetch Codespace info.\n    at u.<anonymous> [PATH]/app.f4a7aef257c8c9dbb1a2.js:1:31977)\n    at Generator.next (<anonymous>)\n    at s [PATH]/app.f4a7aef257c8c9dbb1a2.js:1:29717)","action":"Load","result":"UserError"}]
+writeEvent @ 327.7adbd6b19923e7f0cba2.js:1
+studious-potato-p6v5…5.ppe.github.dev/:1 Uncaught (in promise) Error: Cannot fetch Codespace info.
+    at u.<anonymous> (app.f4a7aef257c8c9dbb1a2.js:1:31977)
+    at Generator.next (<anonymous>)
+    at s (app.f4a7aef257c8c9dbb1a2.js:1:29717)
+api.github.com/codespaces_internal/analytics_tracking_id:1     Failed to load resource: the server responded with a status of 403 ()
+api.github.com/codespaces_internal/analytics_tracking_id:1     Failed to load resource: the server responded with a status of 403 ()
+api.github.com/codespaces_internal/analytics_tracking_id:1     Failed to load resource: the server responded with a status of 403 ()
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:9e87:codespaces-component Failed to get analytics tracking id Error: 403  on URL: https://api.github.com/codespaces_internal/analytics_tracking_id
+    at u.<anonymous> (app.f4a7aef257c8c9dbb1a2.js:1:33674)
+    at Generator.next (<anonymous>)
+    at s (app.f4a7aef257c8c9dbb1a2.js:1:29717)
+writeEvent @ 327.7adbd6b19923e7f0cba2.js:1
+service-worker.js:1 vscs:sw:3886:init got "configureServiceWorker" message Object
+service-worker.js:1 vscs:sw:3886:ConfigurationManager Updated service worker configuration Object
+service-worker.js:1 vscs:sw:3886:init got "configureServiceWorker" message Object
+DevTools failed to load source map: Could not load content for https://assets.ppe.github.dev/static/primer.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://ticino.blob.core.windows.net/sourcemaps/6c3e3dba23e8fadc360aed75ce363ba185c49794/core/vs/workbench/workbench.web.main.nls.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
