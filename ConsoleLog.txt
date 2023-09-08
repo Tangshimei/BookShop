@@ -1,5 +1,5 @@
 www.vscode-unpkg.net/_lp/6c3e3dba23e8fadc360aed75ce363ba185c49794/1.81.1/zh/vscode/vs/workbench/workbench.web.main/:1     Failed to load resource: the server responded with a status of 404 ()
-loader.js:2123 Error: 404 - 
+loader.js:2123 Error: 404 - vvvv
     at d (loader.js:2032:15)
     at async loader.js:2117:38
 (anonymous) @ loader.js:2123
